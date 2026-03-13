@@ -1,1 +1,1 @@
-ai-daily-podcast
+ai-daily-podcast for myself
