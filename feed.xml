@@ -1,3 +1,20 @@
-title: 龙虾AI日报
-author: 麻译天
-description: 每日AI前沿资讯播客
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>龙虾AI日报</title>
+  <description>每日AI前沿资讯播客</description>
+  <language>zh-CN</language>
+  <link>https://mayaxi0421.github.io/ai-daily-podcast</link>
+  <itunes:author>麻译天</itunes:author>
+  <image>
+    <url>https://mayaxi0421.github.io/ai-daily-podcast/feed.xml</url>
+    <title>龙虾AI日报</title>
+  </image>
+  <item>
+    <title>第1期 - 2026年3月13日</title>
+    <description>今日新闻要点：...</description>
+    <pubDate>Thu, 13 Mar 2026 00:00:00 +0800</pubDate>
+    <enclosure url="https://mayaxi0421.github.io/ai-daily-podcast/episode-20260313.mp3" length="813000" type="audio/mpeg"/>
+  </item>
+</channel>
+</rss>
